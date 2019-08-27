@@ -1,0 +1,18 @@
+a) Exibe o conteudo de "valor" reposta esperada
+b) Logo apos temp receber 26.5 o comando *p2 = 29.0 atribui esse conteudo ao endereco, logo, exibe 	29.0 
+c) Exibe "P" pois pega o valor da primeira posicao do vetor de characteres "nome" que eh igual a 	"ponteiros"
+d) Exibe "e" pois pega o valor da quinta posicao do vetor de characteres "nome" que eh igual a "ponteiros". 
+	OBS: A primeira posicao de um vetor eh 0 e comecamos a contar a partir dele. Portanto temos 0 		na primeira posicao e 4 na quinta posicao.
+e) Exibe "P" pois p3 aponta para o primeiro elemento do vetor de caracteres.
+f) Exibe "e" pois *(p3 + 4) = nome[4] e "e" esta na quinta posicao do vetor.
+g) Exibe "t" pois p3 havia recebido (p3 + 4), logo p3 passa a ser (p3 + 3) e o valor exibido eh *(p3 	+ 3) que corresponde a nome[3]
+h) Exibe 31 pois *p4 = vetor[0].
+i) Exibe 45 pois p5 = p4 + 1 e *(p4 + 1) eh equivalente a vetor[1].
+j) Exibe 27 pois p4 = p5 + 1 e p5 = (p4 + 1), logo temos p4 = p4 + 1 + 1, assim p4 = p4 + 2 e *(p4 + 	2) = vetor[2]
+l) Exibe 31 pois p4 estava com o valor (p4 + 2) e quando dimui 2 ele volta ao valor inicial vetor[0]
+m) Exibe 45 pois p5 recebe &vetor[2] - 1 e *(&vetor[2]) = vetor[2], quando diminuimos um *(&vetor[2] -1) = vetor [2 - 1], logo a saida eh vetor[1].
+n) Exibe 27 pois *p5 estava com vetor[1] e aumenta uma posicao para *p5 = vetor[2].
+
+
+
+
