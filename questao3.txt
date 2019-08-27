@@ -1,0 +1,8 @@
+i = 5
+p = endereco de i
+
+- printf("%x\n",p); // Nao exibe nada, para exibir o endereco do ponteiro e necessario usar %p pois o %x requer uma variavel do tipo unsigned int.
+- printf("%d\n", *p+2); //Exibe 7, pois pega o conteudo de i e soma 2
+- printf("%d\n", **&p); //Exibe 5, pois exibe o conteudo de i
+- printf("%d\n", 3**p); //Exibe 15, pois multiplica 3 vezes o conteudo de i
+- printf("%d\n",**&p+4); //Exibe 9, pois soma o conteudo de i com 4
