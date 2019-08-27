@@ -1,2 +1,2 @@
-Primeiro programa: Exibe os numeros na ordem crescente do vetor de inteiro "vet". A expressao *(vet + i) eh equivalente a vet[i].
+Primeiro programa: Exibe "4 9 3", os numeros na ordem crescente do vetor de inteiro "vet". A expressao *(vet + i) eh equivalente a vet[i].
 Segundo programa: Exibe "beca9064 beca9068 beca906c" que sao os hexadecimais correspontes ao endereco de cada posicao.
