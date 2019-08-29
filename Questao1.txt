@@ -1,0 +1,1 @@
+Os ponteiros tem várias utilidades, como construir referências, ter acesso a memória, simular a passagem de parâmetros por referência, podem ser utilizados para apontar para funções, podendo ser chamados como uma função comum, também podem ser utilizados para alocar e desalocar memória, e redimensionar blocos de memória.

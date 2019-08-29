@@ -1,0 +1,12 @@
+ -p == &i;
+//p deve ser 1 caso a comparação seja verdadeira;
+Resp: p=1;
+-*p - *q
+//esta operação vai realizar a subtração dos conteúdos armazenados nas variáveis,
+Resp: -2;
+-**&p
+//corresponde ao conteúdo de p;
+Resp: 3;
+- 3 - *p/(*q) + 7;
+//como *p e *q são inteiros e *p é menor que *q; a divisão será 0;
+Resp: 10;

@@ -1,0 +1,4 @@
+a) Válida, p recebe o endereço de mat.
+b) Inválida, pois não é possível incrementar endereços, pois mat é um vetor.
+c) Inválida, pois não é possível incrementar endereços, pois mat é um vetor.
+d) Válida, (*mat)++ corresponde a um inteiro, vai ser incrementado a “x” o valor do primeiro array.

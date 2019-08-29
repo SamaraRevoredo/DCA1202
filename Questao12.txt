@@ -1,0 +1,8 @@
+a) Válido, o 3 elemento de vetor aloha, recebe o valor de value. 
+b) Válido, a função scanf  armazena está lendo variável float, sendo ela armazenada primeiro array do vetor aloha.
+c) Inválido, pela presença das aspas duplas
+d) Válido, pois o printf está exibindo uma variável float, que está no primeiro array do vetor aloha.
+e)Válido, os dois são do tipo float.
+f)Inválido, forma incorreta de atribuir um valor a uma matriz.
+g)Inválido, o ponteiro pf está recebendo um conteúdo.
+h) Válido, ponteiro pf armazena um endereço.

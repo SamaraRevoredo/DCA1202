@@ -1,0 +1,1 @@
+É possível observar  que quando o vetor é incrementado, o endereço de memória também é, no caso em 4 bits.

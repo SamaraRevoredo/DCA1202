@@ -1,0 +1,4 @@
+a) 4092+1; 4092+2; 4092+3 - incrementa 1 bit ao endereço de memória a cada soma.
+b) 4092+2; 4092+4; 4092+6 - incrementa 2 bits ao endereço de memória a cada soma.
+c) 4092+4; 4092+8; 4092+12 -incrementa 4 bits ao endereço de memória a cada soma.
+d) 4092+8; 4092+16; 4092+24 - incrementa 8 bits ao endereço de memória a cada soma.

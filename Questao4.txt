@@ -1,0 +1,8 @@
+a) não ilegal, ponteiro recebe conteúdo da variável.
+b)não ilegal, ponteiro recebe endereço da variável.
+c)não ilegal, &*&i corresponde ao endereço de i.
+d ilegal, (*&)j ordem incorreta.
+e)não ilegal, apesar de i não ser um ponteiro, *&j corresponde a j, que é inteiro
+f) não ilegal, &*&j também também é correspondente a j. 
+g)ilegal, *p é um int e não um ponteiro para int.
+h) não ilegal, conteúdo de p sendo i.
